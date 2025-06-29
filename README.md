@@ -1,7 +1,7 @@
 # Creating-Customer-Segments-with-Arvato
 Unsupervised Learning Project of Udacity Data Scientist Nanodegree
 
-[Medium post](https://medium.com/@joshua.chyeung/creating-customer-segments-with-arvato-263ce55b1447)
+[Medium post](https://medium.com/@jenanowies57/creating-customer-segments-with-arvato-8bdf19cad41d)
 
 ### Table of Contents
 
